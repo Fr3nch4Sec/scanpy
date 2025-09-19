@@ -1,6 +1,6 @@
 # scanpy  
 
- Un outil python, pour scanner les ports d'une machine. Que j'ai apprécié faire.  🏄🏄  
+ Un outil python, pour scanner les ports réseaux.  🏄🏄  
 
 Privilégier un environement virtuel, pour éviter les conflits de dépendances:  
  
