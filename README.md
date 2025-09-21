@@ -4,7 +4,7 @@
 
 Privilégier un environement virtuel, pour éviter les conflits de dépendances:  
  
-  ``python <version> -m venv <virtual-environment-name>`` 
+  ``python3 -m venv <virtual-Env-name>`` 
 
 or:
 
