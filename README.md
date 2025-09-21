@@ -25,4 +25,4 @@ puis;
 
   (Default Arguments):  ``scanpy.py -u 127.0.0.1 -pS 1 -pE 1024 -m basic``
  
-           ``-b`` is for detect services
+  ``-b`` is for detect services
