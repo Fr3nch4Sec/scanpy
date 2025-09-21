@@ -13,8 +13,8 @@ or:
 and: 
   
   ``source .venv/bin/activate``\
-  ``uv pip install colorama==0.4.6``\ 
-  ``uv pip install tqdm==4.67.1``\
+  ``uv pip install colorama==0.4.6``   
+  ``uv pip install tqdm==4.67.1``  
 
   usage:    
   
