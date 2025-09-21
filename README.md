@@ -19,7 +19,8 @@ puis;
 
   usage:  ``python3 scanpy.py -u <ip> -pS <port_start> -pE <port_end> -m [basic, advanced, concurrent] -b``       (Détection des services)  
 
-  Exemple:  ``scanpy.py -u 127.0.0.1 -pS 1 -pE 1000 -m advanced -b  ``
+  Exemple:  ``scanpy.py -u 127.0.0.1 -pS 1 -pE 1000 -m advanced -b ``
+  
             ``scanpy.py -u 127.0.0.1 -pS 1 -pE 2500 -m basic``
 
 
