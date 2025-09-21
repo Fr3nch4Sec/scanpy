@@ -23,11 +23,11 @@ and:
 
   Exemples:  
             
-  ``scanpy.py -u 127.0.0.1 -pS 1 -pE 1000 -m advanced -b``\
+  ``scanpy.py -u 127.0.0.1 -pS 1 -pE 1000 -m advanced -b``  
   
   ``scanpy.py -u 127.0.0.1 -pS 1 -pE 2500 -m basic``
 
 
-  (Default Arguments):  ``scanpy.py -u 127.0.0.1 -pS 1 -pE 1024 -m basic ``\
+  (Default Arguments):  ``scanpy.py -u 127.0.0.1 -pS 1 -pE 1024 -m basic ``  
  
   ``-b`` is for detect services
